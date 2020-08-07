@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/[G] Windows 8.1.hidden-1/sdbus/code/c++/code/OI/2020-07-17/tx_ss/main.cpp
+cstdio
+-
+cstring
+-
+

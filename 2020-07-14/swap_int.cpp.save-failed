@@ -1,0 +1,33 @@
+#include <cstdio>
+int sswap( int *x, *y )
+{
+    int z = *x;
+    *x = *y;
+    *y = t;
+}
+
+int ssort( int s, int e, int a[] )
+{
+    int m = ( s + e )/2;
+    int i = s, j = e;
+    do
+    {
+        while( a[i] < a[m] )
+        {
+            i++;
+        }
+        while( a[i] > a[m] )
+        {
+            j--;
+        }
+        if( i <= j )
+            sswap( &a[i], &a[j] ),
+            i++, j--;
+
+    }while( i <= j );
+}
+
+int main()
+{
+
+}

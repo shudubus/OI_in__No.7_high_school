@@ -1,0 +1,3 @@
+/Volumes/[E] Windows  8.1/sdbus/compurter/code/c++/code/OI/2020-07-28/gaojing_chengfang/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Volumes/[E] Windows  8.1/sdbus/compurter/code/c++/code/OI/2020-07-28/gaojing_chengfang/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Volumes/[E] Windows  8.1/sdbus/compurter/code/c++/code/OI/2020-07-28/gaojing_chengfang/cmake-build-debug/CMakeFiles/gaojing_chengfang.dir

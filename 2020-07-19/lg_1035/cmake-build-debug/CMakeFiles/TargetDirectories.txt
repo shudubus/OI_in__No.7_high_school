@@ -1,0 +1,3 @@
+/Volumes/[F] Windows 10 vista.hidden/sdbus/code/c++/code/OI/2020-07-19/lg_1035/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Volumes/[F] Windows 10 vista.hidden/sdbus/code/c++/code/OI/2020-07-19/lg_1035/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Volumes/[F] Windows 10 vista.hidden/sdbus/code/c++/code/OI/2020-07-19/lg_1035/cmake-build-debug/CMakeFiles/lg_1035.dir

@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/gaojing_chengfang.dir/main.cpp.o CMakeFiles/gaojing_chengfang.dir/no_name.cpp.o  -o gaojing_chengfang 

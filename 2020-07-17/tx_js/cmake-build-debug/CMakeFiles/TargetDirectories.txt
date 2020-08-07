@@ -1,0 +1,3 @@
+/Volumes/[F] Windows 10 vista/sdbus/code/c++/code/OI/2020-07-17/tx_js/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Volumes/[F] Windows 10 vista/sdbus/code/c++/code/OI/2020-07-17/tx_js/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Volumes/[F] Windows 10 vista/sdbus/code/c++/code/OI/2020-07-17/tx_js/cmake-build-debug/CMakeFiles/tx_js.dir

@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/Volumes/[F] Windows 10 vista/sdbus/code/c++/code/OI/2020-07-17/tx_ldd"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Volumes/[F] Windows 10 vista/sdbus/code/c++/code/OI/2020-07-17/tx_ldd/cmake-build-debug
